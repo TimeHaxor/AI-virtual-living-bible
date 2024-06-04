@@ -1,0 +1,12 @@
+{
+    "LOG_FILE": "context_log.txt",
+    "LOGGING_FILE": "app.log",
+    "logging": 0,
+    "logging_level": "CRITICAL",
+    "win32_model_dir": ".\\resources\\models",
+    "wsl_model_dir": "./resources/models",
+    "model": "ai-forever/mGPT",
+    "device": "cuda",
+    "logging_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "api_token": "your_hf_api_token_here"
+}
